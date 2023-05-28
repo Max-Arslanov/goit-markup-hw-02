@@ -86,3 +86,84 @@ body {
 .header-menu {
   list-style-type: none;
 }
+.benefits-list {
+  list-style-type: none;
+}
+.benefits-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.benefits-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+
+  /* SLATE */
+
+  color: #434455;
+}
+.services-heading {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.services-list {
+  list-style-type: none;
+}
+.team {
+  background-color: #f4f4fd;
+}
+.team-card {
+  background-color: #ffffff;
+}
+.team-heading {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.team-members-list {
+  list-style-type: none;
+}
+.team-member-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.team-position {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: center;
+  letter-spacing: 0.02em;
+  /* SLATE */
+  color: #434455;
+}
+.footer-cta {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  /* CLOUD */
+  color: #f4f4fd;
+}
+footer {
+  background-color: #2e2f42;
+}
+.footer-logo {
+  color: #ffffff;
+}
