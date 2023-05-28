@@ -167,3 +167,43 @@ footer {
 .footer-logo {
   color: #ffffff;
 }
+.menu-list {
+  list-style-type: none;
+}
+.menu-button {
+  width: 116px;
+  height: 48px;
+
+  /* CLOUD */
+
+  background: #f4f4fd;
+  /* CORNFLOWER */
+
+  border: 1px solid #e7e9fc;
+  border-radius: 4px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.04em;
+
+  /* IRIS */
+
+  color: #4d5ae5;
+}
+.menu-button:hover,
+.menu-button:focus {
+  background-color: #404bbf;
+  cursor: pointer;
+  color: #ffffff;
+}
+.project-list {
+  list-style-type: none;
+}
+.project-link {
+  text-decoration: none;
+}
+.project-link: hover, project-link:focus {
+  cursor: pointer;
+}
