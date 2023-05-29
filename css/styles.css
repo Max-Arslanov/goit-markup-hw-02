@@ -116,6 +116,7 @@ body {
   color: #434455;
 }
 .services-heading {
+  text-align: center;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
