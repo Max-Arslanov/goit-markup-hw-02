@@ -213,5 +213,5 @@ footer {
   text-decoration: none;
 }
 .project-link: hover, project-link:focus {
-  cursor: pointer;
+  color: #404bbf;
 }
