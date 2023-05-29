@@ -134,6 +134,7 @@ body {
   background-color: #ffffff;
 }
 .team-heading {
+  text-align: center;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -167,11 +168,11 @@ body {
   /* CLOUD */
   color: #f4f4fd;
 }
-footer {
+.footer-settings {
   background-color: #2e2f42;
 }
 .footer-logo {
-  color: var(--white-background);
+  color: #f4f4fd;
 }
 .menu-list {
   list-style-type: none;
