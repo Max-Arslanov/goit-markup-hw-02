@@ -74,8 +74,11 @@ body {
 .header-link:focus {
   color: #404bbf;
 }
-.header-contact-link {
+
+.address-default {
   font-style: normal;
+}
+.header-contact-link {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
