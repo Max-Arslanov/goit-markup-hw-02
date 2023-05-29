@@ -87,7 +87,7 @@ body {
 .header-contact-link:focus {
   color: #404bbf;
 }
-.header-menu {
+.list {
   list-style-type: none;
 }
 .benefits-list {
