@@ -181,11 +181,11 @@ body {
 
   /* IRIS */
 
-  color: var(--accent-color);
+  color: var(--active-links);
 }
 .menu-button:hover,
 .menu-button:focus {
-  background-color: var(--active-links);
+  background-color: var(--accent-color);
   cursor: pointer;
   color: var(--white-background);
 }
